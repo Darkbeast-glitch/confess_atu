@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011107746548",
+    "project_id": "confess-atu",
+    "storage_bucket": "confess-atu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011107746548:android:1ccde62256b41b82d3c4a1",
+        "android_client_info": {
+          "package_name": "com.example.confess_atu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZF9PCqvv5ChkGxxbFOI_XrZJEqzymI18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
